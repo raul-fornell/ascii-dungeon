@@ -3,8 +3,8 @@
 import dungeons from './dungeons.js';
 import { Character, Point } from './model/index.js';
 import { onKeyboardPressed } from './functions/keyboard.js';
-import { setCharacterBounds } from './functions/Character.js';
-import { getDungeonFromPosition } from './functions/Dungeon.js';
+import { setCharacterBounds } from './functions/character.js';
+import { getDungeonFromPosition } from './functions/dungeon.js';
 import { moveHero, renderDungeon } from './functions/game.js';
 
 let currentDungeon = dungeons[0];
