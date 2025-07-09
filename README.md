@@ -25,3 +25,7 @@ There is no goal, only walls and doors.
 * Add enemies
 * Add items to carry, keys for example
 * Block doors that open with keys
+
+## Play the game
+
+<https://inerciabcn.com/misc/ascii-dungeon/>
