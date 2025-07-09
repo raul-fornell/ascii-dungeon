@@ -1,6 +1,6 @@
 // @ts-check
 
-import Point from "../model/Point.js";
+import Point from "../model/point.js";
 
 /**
  * 

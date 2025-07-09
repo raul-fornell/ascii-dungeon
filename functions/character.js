@@ -1,9 +1,9 @@
 // @ts-check
 
-/** @typedef {import('../model/Character').Bounds} Bounds */
+/** @typedef {import('../model/character.js').Bounds} Bounds */
 
 import { Character, Dungeon, Point } from '../model/index.js'; // TODO: index.js can be omitted in module?
-import { getDungeonMatrix } from './Dungeon.js';
+import { getDungeonMatrix } from './dungeon.js';
 import { addToPoint } from './point.js';
 
 /**

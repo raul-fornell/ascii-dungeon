@@ -6,7 +6,7 @@
  */
 
 
-import Point from './Point.js';
+import Point from './point.js';
 export default class Dungeon {
     /**
      * @param {number} width 

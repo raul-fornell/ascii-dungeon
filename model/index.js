@@ -1,7 +1,7 @@
 // @ts-check
 
-import Character from "./Character.js";
-import Point from "./Point.js";
-import Dungeon from "./Dungeon.js";
+import Character from "./character.js";
+import Point from "./point.js";
+import Dungeon from "./dungeon.js";
 
 export { Character, Dungeon, Point };

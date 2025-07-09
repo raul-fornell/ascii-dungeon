@@ -1,7 +1,7 @@
 // @ts-check
 
-/** @typedef {import('../model/Dungeon').link} link */
-/** @typedef {import('../model/Character').Bounds} Bounds */
+/** @typedef {import('../model/dungeon.js').link} link */
+/** @typedef {import('../model/character.js').Bounds} Bounds */
 
 import { arePointsEqual, pointIs } from './point.js';
 import { Dungeon, Point } from '../model/index.js';

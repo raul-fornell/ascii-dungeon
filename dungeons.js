@@ -1,7 +1,7 @@
 // @ts-check
 
-import { setDungeonDoor, setDungeonDoorLinkedTo, setDungeonExit, setDungeonExitLinkedTo } from "./functions/Dungeon.js";
-import Dungeon from "./model/Dungeon.js";
+import { setDungeonDoor, setDungeonDoorLinkedTo, setDungeonExit, setDungeonExitLinkedTo } from "./functions/dungeon.js";
+import Dungeon from "./model/dungeon.js";
 
 const entrance = new Dungeon(10, 9);
 setDungeonDoor(entrance, 2, 8);
